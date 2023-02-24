@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-FoodBookApplication<food-book>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.projetos.foodbook.FoodBookApplication",
+            "projectName": "food-book",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
